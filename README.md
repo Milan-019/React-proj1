@@ -4,7 +4,40 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+# Portfolio Website
+
+Welcome to my portfolio website! This project showcases my skills and projects as a developer. It is built using React.js and CSS, providing a modern, responsive design.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- **Responsive Design**: The layout adapts to various screen sizes for a seamless experience on desktops, tablets, and mobile devices.
+- **Dynamic Components**: Reusable components for different sections such as Features, Contact, and Footer.
+- **Interactive Navigation**: Mobile-friendly toggle menu for easy navigation.
+- **Contact Form**: Users can send messages via a contact form that captures their name, email, phone number, subject, and message.
+- **Typewriter Animation**: Engaging text animations to enhance the user experience.
+
+## Technologies Used
+
+- **React.js**: Frontend framework for building user interfaces.
+- **CSS**: Styling for layout and design.
+- **React Hooks**: For state management and component lifecycle.
+- **Font Awesome**: Icons for social media and buttons.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+
 
 ### `npm start`
 
